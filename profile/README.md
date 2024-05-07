@@ -9,10 +9,6 @@ The folders are organized by semester. S1 represents the first semester of the f
 
 **As I was doing the HEIG in part time you will maybe not find the academic subject in the same semester as you!**
 
-<ul><li>- [ ] Update documentation from S1 as it has been written on Notion</li></ul>
-<ul><li>- [ ] Update documentation from S2 and S3 as it has been written on Obsidian</li></ul>
-
-
 # Details
 
 Semester | Lesson | Documentations | Laboratories
@@ -20,3 +16,7 @@ Semester | Lesson | Documentations | Laboratories
 | S1 | MAD | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/MAD/docs) | - |
 | S1 | MAT1 | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/MAT1/docs) | - |
 | S1 | PRG1 | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/PRG1/docs) | [lab](https://github.com/HEIGVD-Experience/PRG1-labs) |
+
+# To Do
+<ul><li>- [ ] Update documentation from S1 as it has been written on Notion</li></ul>
+<ul><li>- [ ] Update documentation from S2 and S3 as it has been written on Obsidian</li></ul>
