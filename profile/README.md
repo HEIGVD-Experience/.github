@@ -19,4 +19,4 @@ Semester | Lesson | Documentations | Laboratories
 |----|----|----|----|
 | S1 | MAD | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/MAD/docs) | - |
 | S1 | MAT1 | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/MAT1/docs) | - |
-| S1 | PRG1 | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/PRG1/docs) | [lab](https://github.com/HEIGVD-Experience/docs/blob/main/S1/PRG1/labs) |
+| S1 | PRG1 | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/PRG1/docs) | [lab](https://github.com/HEIGVD-Experience/PRG1-labs) |
