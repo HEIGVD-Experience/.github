@@ -1,12 +1,22 @@
-## Hi there 👋
+![HEIGVD](https://github.com/HEIGVD-Experience/docs/blob/main/_src/img/docs/HEIGVD.png)
 
-<!--
+# Presentation
+As a computer science student at [HEIG-VD](https://heig-vd.ch), I have compiled my entire resume throughout my academic journey. I am happy to share it to assist other students in succeeding in their studies.
 
-**Here are some ideas to get you started:**
+# Structure
+The folders are organized by semester. S1 represents the first semester of the first year, S3 represents the first semester of the second year, and SE represents the summer semester named `HES d'été`. Inside these folders, you will find all the academic subjects I studied during the respective semester.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+**As I was doing the HEIG in part time you will maybe not find the academic subject in the same semester as you!**
+
+<ul><li>- [ ] Update documentation from S1 as it has been written on Notion</li></ul>
+<ul><li>- [ ] Update documentation from S2 and S3 as it has been written on Obsidian</li></ul>
+
+
+# Details
+
+Semester | Lesson | Documentations | Laboratories
+|----|----|----|----|
+| S1 | MAD | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/MAD/docs) | - |
+| S1 | MAT1 | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/MAT1/docs) | - |
+| S1 | PRG1 | [documentation](https://github.com/HEIGVD-Experience/docs/blob/main/S1/PRG1/docs) | [lab](https://github.com/HEIGVD-Experience/docs/blob/main/S1/PRG1/labs) |
