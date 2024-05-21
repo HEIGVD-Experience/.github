@@ -1,4 +1,4 @@
-![HEIGVD](https://github.com/HEIGVD-Experience/docs/blob/main/_src/img/docs/HEIGVD.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/HEIG-VD_logotype-baseline_rouge-rvb.png/1920px-HEIG-VD_logotype-baseline_rouge-rvb.png" width="100%"/>
 
 # Presentation
 As a computer science student at [HEIG-VD](https://heig-vd.ch), I have compiled my entire resume throughout my academic journey. I am happy to share it to assist other students in succeeding in their studies.
